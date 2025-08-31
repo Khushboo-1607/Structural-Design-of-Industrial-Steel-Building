@@ -1,3 +1,7 @@
+## About
+
+Structural design of an industrial steel building with concrete footing, following Indian Standards and Limit State Design. The project covers roof purlins, trusses, columns, and footings, including wind load considerations and CAD modeling. Ideal for engineers and students interested in practical steel structure design.
+
 # Structural Design of Industrial Steel Building
 
 This project presents the **structural design of a steel building with concrete footing** following Indian Standards and the Limit State Design method. The design addresses roof purlins, truss members, columns, gusseted joints, base plates, and reinforced concrete footings with detailed calculations based on relevant codes.
