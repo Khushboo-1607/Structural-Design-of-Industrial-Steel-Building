@@ -23,6 +23,11 @@ IS 800 2007 methodology was used.
 7. Reinforced concrete footing:-
 IS 456 2000 methodology was used. The soil was assumed to have the bearing of 300 kN/mm2 at a depth of 1.5 m.
 
+The link for Onshape file for the project is: 
+[CAD File](https://cad.onshape.com/documents/089190b78e7418bf8d3659e1/w/3c35eebfe22cfa329f4c0ae9/e/51e61a87b672adeaec0c15ca?renderMode=0&uiState=68028e55d7bede229ca4160e)
+
+
+
 The Drawing od the bulding is:
 ![DSS1](DSS1.jpeg)
 ![DSS2](DSS2.jpeg) 
