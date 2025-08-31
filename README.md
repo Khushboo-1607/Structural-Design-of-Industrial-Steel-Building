@@ -1,36 +1,48 @@
-This is a structural design of Steel building with concrete footing. Indian Standards were followed and Limit State method was used in designing. 
+# Structural Design of Industrial Steel Building
 
+This project presents the **structural design of a steel building with concrete footing** following Indian Standards and the Limit State Design method. The design addresses roof purlins, truss members, columns, gusseted joints, base plates, and reinforced concrete footings with detailed calculations based on relevant codes.
 
-Methodology: 
+---
 
-1. Roof purlins (Use C-sections):-
-For wind load calculations,IS 875 (Part 3): 2015 was used.
+## Methodology
 
-2. Purlins:-
-IS 800 2007, IS 808 were used. The wind load is divided equally amongst all the purlins. C section was used for purlin.
-	
-3. Tension and compression members of the trusses (take an L-section):-
-Wind load along with weight of claddings and purlins acts on the truss. This is distributed among the 3 trusses. The truss takes these forces in addition to its self weight. We took the maximum tension and compression amongst all the truss members and designed the L section for those forces. This can be further improved by designing top chord, bottom chord and mid members separately.
+### 1. Roof Purlins (C-sections)  
+Wind load calculations are based on **IS 875 (Part 3): 2015**. C-section steel purlins were selected for the roof framework.
 
-4. Gusseted joints in the trusses:-
-The joints are welded together with the gusset plates. The maximum forces to be resisted were taken and weld was designed for those forces.This can be further improved by designing top chord, bottom chord and mid members’ weld separately.
+### 2. Purlins  
+Design follows **IS 800:2007** and **IS 808** standards. The wind load is equally distributed among all purlins, which are also made from C-sections.
 
-5. Columns:-
-Upper Column: The force on the truss was divided amongst the two columns. Column took those forces along with its self weight.
-Lower Column: The lower column took an additional weight from the gantry girder. This force is assumed to be concentric and no moment is considered in the designing process.
-Splice Connection: The flanges are transferring the complete force to the lower column from the upper column in additional to the extra load.
+### 3. Tension and Compression Members of Trusses (L-sections)  
+The trusses carry wind loads, weights of claddings, and purlins, distributed among three trusses. Maximum tension and compression forces were used to design the L-section members. Future improvements could separately design top chords, bottom chords, and mid-members.
 
-6. Column base plates:-
-IS 800 2007 methodology was used. 
+### 4. Gusseted Joints in Trusses  
+Joints are welded with gusset plates to resist maximum forces. Weld design could be further refined by analyzing top chord, bottom chord, and mid-member welds individually.
 
-7. Reinforced concrete footing:-
-IS 456 2000 methodology was used. The soil was assumed to have the bearing of 300 kN/mm2 at a depth of 1.5 m.
+### 5. Columns  
+- **Upper Columns:** Forces from trusses are divided among two columns along with their self-weight.  
+- **Lower Columns:** These bear additional weight from the gantry girder, assumed concentric without moment consideration.  
+- **Splice Connections:** Flanges transfer the full force from the upper to the lower columns, plus any extra load.
 
-The link for Onshape file for the project is: 
-[CAD File](https://cad.onshape.com/documents/089190b78e7418bf8d3659e1/w/3c35eebfe22cfa329f4c0ae9/e/51e61a87b672adeaec0c15ca?renderMode=0&uiState=68028e55d7bede229ca4160e)
+### 6. Column Base Plates  
+Base plate design follows the **IS 800:2007** methodology, ensuring stable load transfer to footing.
 
+### 7. Reinforced Concrete Footing  
+Designed as per **IS 456:2000** assuming soil bearing capacity of 300 kN/m² at 1.5 m depth.
 
+---
 
-The Drawing od the bulding is:
-![DSS1](DSS1.jpeg)
-![DSS2](DSS2.jpeg) 
+## Project Files and Visuals
+
+- **CAD Model:**  
+  Access the 3D model of the project on Onshape:  
+  [CAD File](https://cad.onshape.com/documents/089190b78e7418bf8d3659e1/w/3c35eebfe22cfa329f4c0ae9/e/51e61a87b672adeaec0c15ca?renderMode=0&uiState=68028e55d7bede229ca4160e)
+
+- **Drawings:**  
+  ![Structural Drawing 1](DSS1.jpeg)  
+  ![Structural Drawing 2](DSS2.jpeg)
+
+---
+
+## Notes  
+- This design strictly follows Indian Standards and uses the Limit State Design for safety and efficiency.  
+- Further improvements could focus on detailed member-wise weld design and moment considerations in columns. 
