@@ -22,3 +22,7 @@ IS 800 2007 methodology was used.
 
 7. Reinforced concrete footing:-
 IS 456 2000 methodology was used. The soil was assumed to have the bearing of 300 kN/mm2 at a depth of 1.5 m.
+
+The Drawing od the bulding is:
+![DSS 1](DSS 1.jpeg)
+
