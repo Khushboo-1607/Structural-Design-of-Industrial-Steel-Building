@@ -1,3 +1,6 @@
+This is a structural design of Steel building with concrete footing. Indian Standards were followed and Limit State method was used in designing. 
+
+
 Methodology: 
 
 1. Roof purlins (Use C-sections):-
